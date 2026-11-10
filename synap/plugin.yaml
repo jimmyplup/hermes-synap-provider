@@ -1,0 +1,6 @@
+name: synap
+kind: model-provider
+version: 1.0.0
+description: Synap — OpenAI-compatible hosted inference
+author: Linkrra
+requires_hermes: ">=0.22.0"
